@@ -1,0 +1,5 @@
+baseURL = "https://ireneher.github.io/"
+languageCode = "en-uk"
+title = "Irene Hernández"
+theme = "hermit"
+publishDir = "docs"
